@@ -31,6 +31,10 @@
             "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/baidu/qx_rewite.txt, tag=BD Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
+            "config": "8 10 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/cucc.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/cucc.conf, tag=CUCC Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
             "config": "10 */1 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频, img-url= https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/zhima.conf, tag=ZM Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
