@@ -3,6 +3,22 @@
     "description": "不积小流,无以成江海！", 
     "task": [
         {
+            "config": "10 */1 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频, img-url= https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/zhima.conf, tag=ZM Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/Se7eNcBoT/MyXP/master/Icons/ZhiYi/ranlv_144x.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/ranlv.conf, tag=RL Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "15 0,6,12,18 * * * https://raw.githubusercontent.com/age174/-/main/ddxq.js, tag=嘀嗒星球, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/ddxq.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/ddxq.conf, tag=DDXQ Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "13 12 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/ymzhuan.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/ymz.conf, tag=YMZ Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
             "config": "15 6-10 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/fqkk.conf, tag=FQKK Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
