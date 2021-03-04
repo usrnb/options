@@ -19,6 +19,10 @@
             "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/txnews/qx_rewite.txt, tag=TXN Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
+            "config": "8 20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/videoqq.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/txv.conf, tag=TXV Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
             "config": "0 0 7,22 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js, tag=电视家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/dianshijia.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/dianshijia/qx_rewite.txt, tag=DSJ Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
