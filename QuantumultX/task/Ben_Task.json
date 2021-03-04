@@ -5,7 +5,7 @@
         {
             "config": "1,31 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=全民悦动, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/qmyd.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/qmyd.conf, tag=QMYD Cookie, update-interval=-1, opt-parser=false, enabled=true"
-        }, 
+        },
         {
             "config": "2,32 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/ydz.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/ydz.conf, tag=YDZ Cookie, update-interval=-1, opt-parser=false, enabled=true"
