@@ -23,6 +23,10 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/txv.conf, tag=TXV Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
+            "config": "20 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iQIYI.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/iqiyi.conf, tag=iQIYI Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
             "config": "0 0 7,22 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js, tag=电视家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/dianshijia.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/dianshijia/qx_rewite.txt, tag=DSJ Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
