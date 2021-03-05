@@ -56,10 +56,6 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/iboxpay.conf, tag=XP Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "10 */1 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频, img-url= https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",
-            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/zhima.conf, tag=ZM Cookie, update-interval=-1, opt-parser=false, enabled=true"
-        },
-        {
             "config": "1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/Se7eNcBoT/MyXP/master/Icons/ZhiYi/ranlv_144x.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/ranlv.conf, tag=RL Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
