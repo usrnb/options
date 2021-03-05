@@ -67,10 +67,6 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/mohai.conf, tag=MH Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "13 12 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/ymzhuan.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png, enabled=true",
-            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/ymz.conf, tag=YMZ Cookie, update-interval=-1, opt-parser=false, enabled=true"
-        },
-        {
             "config": "15 6-10 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/fqkk.conf, tag=FQKK Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
