@@ -38,7 +38,6 @@
             "config": "0 0 7,22 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js, tag=电视家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/dianshijia.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/dianshijia/qx_rewite.txt, tag=DSJ Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
-       
         {
             "config": "*/30 */5 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/baidu/qx_rewite.txt, tag=BD Cookie, update-interval=-1, opt-parser=false, enabled=true"
