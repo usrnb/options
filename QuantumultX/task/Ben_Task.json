@@ -51,10 +51,10 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/cucc.conf, tag=CUCC Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "0 10,23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/flw.js, tag=返利网, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/flw.png, enabled=true",
+            "config": "0 10,23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/flw.js, tag=返利网, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/flw.png, enabled=true",
         },
         {
-            "config": "10 15-22 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/iboxpay.png, enabled=true",
+            "config": "10 15-22 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/iboxpay.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/iboxpay.conf, tag=XP Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
@@ -98,15 +98,15 @@
             "addons": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/cookie.conf, tag=RUNSTEP Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "1,31 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=全民悦动, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/qmyd.png, enabled=true", 
+            "config": "1,31 0-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/qmyd.js, tag=全民悦动, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/qmyd.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/qmyd.conf, tag=QMYD Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "2,32 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/ydz.png, enabled=true",
+            "config": "2,32 0-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/yuedongzu.js, tag=悦动族, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/ydz.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/ydz.conf, tag=YDZ Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "3,33 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/bububao.js, tag=步步宝, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/BBB.png, enabled=true",
+            "config": "3,33 0-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/bububao.js, tag=步步宝, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/BBB.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/bbb.conf, tag=BBB Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
