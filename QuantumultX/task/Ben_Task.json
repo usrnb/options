@@ -51,7 +51,7 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/cucc.conf, tag=CUCC Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "8 10 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js, tag=评有圈, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/pyq.png, enabled=true",
+            "config": "*/12 6-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js, tag=评有圈, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/pyq.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/pyq.conf, tag=PYQ Cookie, update-interval=-1, opt-parser=false, enabled=true"
 
         {
