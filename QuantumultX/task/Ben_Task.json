@@ -100,7 +100,7 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/ysm.conf, tag=YSM Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "15 0,6,12,18,20 * * * https://raw.githubusercontent.com/age174/-/main/xsmm.js, tag=悬赏喵喵, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
+            "config": "15 0,6,12,18,20 * * * https://raw.githubusercontent.com/age174/-/main/xsmm.js, tag=悬赏喵喵, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/xsmm.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/xsmm.conf, tag=XSMM Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
