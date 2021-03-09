@@ -103,6 +103,11 @@
             "config": "20 12 * * * https://raw.githubusercontent.com/age174/-/main/xyzd.js, tag=幸运赚点, img-url=https://ae01.alicdn.com/kf/U1680ecdfa17544669c71e00400c542e31.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/xyzd.conf, tag=XYZD Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
+
+        {
+            "config": "15 13 * * * https://raw.githubusercontent.com/age174/-/main/hldsp.js, tag=哈喽短视频, img-url=https://ae01.alicdn.com/kf/Uda8ecbbe50444fe293b538cbccf9d719q.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/hldsp.conf, tag=HV Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
         {
             "config": "15 0,6,12,18,20 * * * https://raw.githubusercontent.com/age174/-/main/xsmm.js, tag=悬赏喵喵, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/xsmm.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/xsmm.conf, tag=XSMM Cookie, update-interval=-1, opt-parser=false, enabled=true"
