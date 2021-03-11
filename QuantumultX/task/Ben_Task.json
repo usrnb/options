@@ -67,7 +67,7 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/cucc.conf, tag=CUCC Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "*/29 8-22 * * * https://raw.githubusercontent.com/age174/-/main/cfz.js, tag=春风转, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/cfz.png, enabled=true",
+            "config": "*/30 8-22 * * * https://raw.githubusercontent.com/age174/-/main/cfz.js, tag=春风转, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/cfz.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/cfz.conf, tag=CFZ Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
