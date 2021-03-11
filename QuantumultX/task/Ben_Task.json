@@ -71,6 +71,10 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/pyq.conf, tag=PYQ Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
+            "config": "15 13 * * * https://raw.githubusercontent.com/age174/-/main/cfz.js, tag=春风转, img-url=https://ae01.alicdn.com/kf/U8a3a2572bf5d4584928d1d7cde52b50ba.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/cfz.conf, tag=CFZ Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
             "config": "0 10,23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/flw.js, tag=返利网, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/flw.png, enabled=true",
         },
         {
