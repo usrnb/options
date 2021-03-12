@@ -102,6 +102,10 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/fqkk.conf, tag=FQKK Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
+            "config": "*/20 12,13 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/fqxs.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/fqkk.conf, tag=FQXS Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
             "config": "15 12,14,16,18,20 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url= https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/ysm.conf, tag=YSM Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
