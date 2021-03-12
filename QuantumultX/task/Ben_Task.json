@@ -107,6 +107,11 @@
         },
         {
             "config": "35 12-22 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js, tag=书旗小说, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/sqxs.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/sqhd.conf, tag=SQ header, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "35 12-22 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js, tag=书旗小说, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/sqxs.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/sqbd.conf, tag=SQ body, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "15 12,14,16,18,20 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url= https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
