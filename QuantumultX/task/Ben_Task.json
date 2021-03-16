@@ -63,6 +63,10 @@
             "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/baidu/qx_rewite.txt, tag=BD Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
+            "config": "*/30 */5 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js, tag=抖音极速版, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/dyjsb.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/dyjsb.conf, tag=BD Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
             "config": "8 10 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/cucc.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/cucc.conf, tag=CUCC Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
