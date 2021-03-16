@@ -74,6 +74,11 @@
             "config": "0 10,23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_ziye12_JavaScript/master/Task/flw.js, tag=返利网, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/flw.png, enabled=true",
         },
         {
+            "config": "50 7 8-23 * * * https:\/\/raw.githubusercontent.com\/6Svip120apk69\/gitee_q8qsTAUA_cThxc1RBVUE\/main\/Task\/xiaole.js, tag=小乐, img-url=https:\/\/raw.githubusercontent.com\/6Svip120apk69\/gitee_q8qsTAUA_cThxc1RBVUE\/master\/Task\/xiaole.png, enabled=true",
+            "addons": "https:\/\/raw.githubusercontent.com\/6Svip120apk69\/gitee_q8qsTAUA_cThxc1RBVUE\/main\/Task\/ziye-xiaole-header.txt, tag=XL Cookie, update-interval=-1, opt-parser=false, enabled=true"
+
+        },
+        {
             "config": "10 15-22 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/iboxpay.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/iboxpay.conf, tag=XP Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
