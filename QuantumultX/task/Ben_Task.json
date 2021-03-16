@@ -75,7 +75,7 @@
         },
         {
             "config": "50 7 8-23 * * * https:\/\/raw.githubusercontent.com\/6Svip120apk69\/gitee_q8qsTAUA_cThxc1RBVUE\/main\/Task\/xiaole.js, tag=小乐, img-url=https:\/\/raw.githubusercontent.com\/6Svip120apk69\/gitee_q8qsTAUA_cThxc1RBVUE\/master\/Task\/xiaole.png, enabled=true",
-            "addons": "https:\/\/raw.githubusercontent.com\/6Svip120apk69\/gitee_q8qsTAUA_cThxc1RBVUE\/main\/Task\/ziye-xiaole-header.txt, tag=XL Cookie, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/xiaole.conf, tag=XL Cookie, update-interval=-1, opt-parser=false, enabled=true"
 
         },
         {
