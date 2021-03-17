@@ -99,7 +99,7 @@
             "addons": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo.conf, tag=DKD Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "22 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/kkd.js, tag=快看点, img-url= https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/kkd.png, enabled=true",
+            "config": "*/25 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/kkd.js, tag=快看点, img-url= https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/kkd.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/kkd.conf, tag=DKD Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
