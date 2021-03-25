@@ -1,6 +1,6 @@
 {
     "name": "小坡 Task Sub", 
-    "description": "不积小流,无以成江海！", 
+    "description": "不积小流, 无以成江海！", 
     "task": [
         {
             "config": "20 11 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true", 
