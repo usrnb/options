@@ -181,6 +181,10 @@
         {
             "config": "7 */30 * * * * https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/bububao.js, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/bbb.png, tag=步步宝, enabled=true",
             "addons": "https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/ziye-bububao-header.txt, tag=BBB Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "20 9 * * * https://raw.githubusercontent.com/age174/-/main/ximei.js, tag=西梅, img-url=https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/xm.conf, tag=XM Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
