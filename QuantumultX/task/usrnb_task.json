@@ -197,6 +197,11 @@
         {
             "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/66yd.conf, tag=66YD Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "0,30 8-23 * * * https://raw.githubusercontent.com/age174/-/main/hlyy.js, tag=葫芦音乐, img-url=https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/hlyy.conf, tag=HLYY Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
+
     ]
 }
