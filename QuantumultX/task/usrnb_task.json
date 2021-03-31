@@ -197,9 +197,6 @@
         {
             "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/66yd.conf, tag=66YD Cookie, update-interval=-1, opt-parser=false, enabled=true"
-        },
-        {
-            "config": "* /10 0-23 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/jdtq.js, tag=简单天气, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/jdtq.png, enabled=true",
         }
     ]
 }
