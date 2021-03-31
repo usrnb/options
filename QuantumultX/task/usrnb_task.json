@@ -193,6 +193,10 @@
         {
             "config": "10 8 * * * https://raw.githubusercontent.com/age174/-/main/zqwn.js, tag=最强蜗牛, img-url=https://ae01.alicdn.com/kf/U1748aeaa81a54cdf8797ed3fc54d76ef3.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/zqwn.conf, tag=ZQWN Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/66yd.conf, tag=66YD Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
