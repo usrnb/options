@@ -199,6 +199,10 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/66yd.conf, tag=66YD Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
+            "config": "30 10 * * * https://raw.githubusercontent.com/age174/-/main/yqzh.js, tag=悦趣阅读, img-url=https://ae01.alicdn.com/kf/U428ddcb68e304bc0822743cad88f5142n.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/yqzh.conf, tag=YQZH Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
             "config": "0,30 8-23 * * * https://raw.githubusercontent.com/age174/-/main/hlyy.js, tag=葫芦音乐, img-url=https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/hlyy.conf, tag=HLYY Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
