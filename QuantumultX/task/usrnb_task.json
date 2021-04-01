@@ -201,7 +201,10 @@
         {
             "config": "0,30 8-23 * * * https://raw.githubusercontent.com/age174/-/main/hlyy.js, tag=葫芦音乐, img-url=https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/hlyy.conf, tag=HLYY Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/smz.js, tag=睡眠赚, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/smz.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/smz.conf, tag=SMZ Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
-
     ]
 }
