@@ -170,6 +170,10 @@
         {
             "config": "15 9, * * * https://raw.githubusercontent.com/age174/-/main/vsh.js, tag=V生活, img-url=https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/vsh.conf, tag=VSH Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "0,30 8-23 * * * https://raw.githubusercontent.com/age174/-/main/hlyy.js, tag=葫芦音乐, img-url=https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/hlyy.conf, tag=HLYY Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
