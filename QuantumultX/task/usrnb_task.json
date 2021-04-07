@@ -132,6 +132,10 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/wcyd.conf, tag=WCYD Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
+            "config": "10 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wcxcx.js, tag=文创阅读小程序, img-url=https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/wcxcx.conf, tag=WCXCX Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
             "config": "15 13 * * * https://raw.githubusercontent.com/age174/-/main/hldsp.js, tag=哈喽短视频, img-url=https://ae01.alicdn.com/kf/Uda8ecbbe50444fe293b538cbccf9d719q.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/hldsp.conf, tag=HV Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
