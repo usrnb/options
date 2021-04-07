@@ -174,6 +174,10 @@
         {
             "config": "10-15 9 * * * https://raw.githubusercontent.com/age174/-/main/lgyy.js, tag=朗果英语, img-url=https://ae01.alicdn.com/kf/Uc3c35e1796624a7ca6a23c89c7f0dff2H.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/lgyy.conf, tag=LGYY Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "15 9, * * * https://raw.githubusercontent.com/age174/-/main/vsh.js, tag=V生活, img-url=https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/vsh.conf, tag=VSH Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
