@@ -177,7 +177,7 @@
         },
         {
             "config": "10 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=天天挖矿, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/ttwk.png, enabled=true",
-            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/hlyy.conf, tag=TTWK Cookie, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/ttwk.conf, tag=TTWK Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
