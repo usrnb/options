@@ -178,6 +178,10 @@
         {
             "config": "0 9,13 * * * https://raw.githubusercontent.com/age174/-/main/lhws.js, tag=落花无生, img-url=https://ae01.alicdn.com/kf/U7f67ec3bd2d848a59d72a1807dc9e324r.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/lhws.conf, tag=LHWS Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "0-59 9,12,22 * * * https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/task/shq.js, tag=生活圈, img-url=https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/shq.conf, tag=SHQ Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
