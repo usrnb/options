@@ -182,6 +182,10 @@
         {
             "config": "0-59 9,12,22 * * * https://raw.githubusercontent.com/age174/-/main/shq.js, tag=生活圈, img-url=https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/shq.conf, tag=SHQ Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "0 8 * * * https://raw.githubusercontent.com/xl2101200/-/main/pxx.js, tag=拼夕夕,  img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/pxx.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/pxx.conf, tag=PXX Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
