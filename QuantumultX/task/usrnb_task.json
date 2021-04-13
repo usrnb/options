@@ -174,6 +174,10 @@
         {
             "config": "35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/qhyd.js, tag=千禾阅读, img-url=https://ae01.alicdn.com/kf/U413ab7460abb4a28b11deac3c5034243N.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/qhyd.conf, tag=QHYD Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/smz.js, tag=睡眠赚, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/smz.conf, tag=SMZ Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
