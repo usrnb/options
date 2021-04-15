@@ -182,6 +182,10 @@
         {
             "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/smz.js, tag=睡眠赚, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/smz.conf, tag=SMZ Cookie, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "11 11 10-22 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/yqnb.js, tag=易趣牛帮, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/yqnb.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/yqnb.conf, tag=YQNB Cookie, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
