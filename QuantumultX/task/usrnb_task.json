@@ -97,10 +97,6 @@
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/kkd.conf, tag=DKD Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "50 12 * * * https://raw.githubusercontent.com/age174/-/main/yggy.js, tag=阳光果园, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/yggy.png, enabled=true",
-            "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/yggy.conf, tag=YGGY Cookie, update-interval=-1, opt-parser=false, enabled=true"
-        },
-        {
             "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频, img-url= https://gitee.com/ydj0602/hym/raw/img/MHDSP.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/rewrite/mohai.conf, tag=MH Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
