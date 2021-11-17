@@ -14,9 +14,5 @@
             "config": "20 5 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/youth/qx_rewite.txt, tag=Youth Cookie, update-interval=-1, opt-parser=false, enabled=true"
         },
-        {
-            "config": "30 1,2 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js, tag=活动-长牛来了, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txs_wxcookie.conf, tag=TXSWX Cookie, update-interval=-1, opt-parser=false, enabled=true"
-        }, 
     ]
 }
