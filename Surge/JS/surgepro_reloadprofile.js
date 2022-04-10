@@ -1,19 +1,3 @@
-/* 
-源码来自于fishingworld(https://raw.githubusercontent.com/fishingworld/something/main/PanelScripts/surgepro_reloadprofile.js)
-由lxsx45(https://github.com/lxsx45)修改为英文版
-
-示例↓↓↓ 
-----------------------------------------
-
-[Script]
-SurgePro_ReloadProfile = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/surgepro_reloadprofile.js,argument=icon=crown.fill&color=#f6c970
-
-[Panel]
-SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile,title=Startup Time,content=Please refresh,update-interval=1
-
-----------------------------------------
-*/
-
 let params = getParams($argument)
 
 !(async () => {
@@ -27,7 +11,7 @@ if ($trigger == "button") await httpAPI("/v1/profiles/reload");
 
   $done({
       title:"Surge Pro",
-      content:`Startup Time: ${startTime}`,
+      content:`启动时长: ${startTime}`,
 		icon: params.icon,
 		"icon-color":params.color
     });
@@ -49,12 +33,12 @@ let seconds=Math.round(leave3/1000)
 if(days==0){
 
 	if(hours==0){
-	if(minutes==0)return(`${seconds}Sec`);
-	return(`${minutes}Min${seconds}Sec`)
+	if(minutes==0)return(`${seconds}秒`);
+	return(`${minutes}分${seconds}秒`)
 	}
-	return(`${hours}H${minutes}Min${seconds}Sec`)
+	return(`${hours}时${minutes}分${seconds}秒`)
 	}else {
-	return(`${days}D${hours}H${minutes}Min`)
+	return(`${days}天${hours}时${minutes}分`)
 	}
 
 }
