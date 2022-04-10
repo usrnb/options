@@ -12,7 +12,7 @@ flushDNS = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/
 [Panel]
 SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile, title="Startup of Time", content="Please refresh", update-interval=1
 TrafficStatistics = script-name=TrafficStatistics,title=Network traffic Statistics,content=Please refresh,update-interval=1
-Netflix Unlock Detection = script-name=Netflix Unlock Detection,title=Netflix Unlock Detection,content=Please refresh.,update-interval=7200
-YouTube Premium Unlock Detection = script-name=YouTube Premium Unlock Detection,title=YouTube Premium Unlock Detection,update-interval=7200
+Netflix Unlock Detection = script-name=Netflix Unlock Detection,title=Netflix 解锁检测,content=Please refresh.,update-interval=7200
+YouTube Premium Unlock Detection = script-name=YouTube Premium Unlock Detection,title=YouTube Premium 解锁检测,update-interval=7200
 Config Reload = title=Config Reload,content=Config Reload,style=info,script-name=Config Reload,update-interval=-1
 flushDNS = script-name=flushDNS, title="Flush DNS", content="Refresh", update-interval=600
