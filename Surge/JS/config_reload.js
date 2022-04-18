@@ -20,6 +20,6 @@ $httpAPI("POST", "/v1/profiles/reload", {}, data => {
         title: "Config Reload",
         content: "Configuration Reload Succeeded",
         icon: "terminal",
-        "icon-color": "#5AC8FA",
+        "icon-color": "#5d84f8",
      })
     });
