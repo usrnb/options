@@ -20,7 +20,7 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
 
   ;(async () => {
     let panel_result = {
-      title: '流媒体解锁检测',
+      title: '流媒体解锁',
       content: '',
       icon: 'play.circle',
       'icon-color': '#67CE67',
