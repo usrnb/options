@@ -2,8 +2,8 @@
 #!desc=彩云天气解锁SVIP
 #!system=ios
 
+[Script]
+Weather = type=http-response,requires-body=1,max-size=0,pattern=^https:\/\/biz\.caiyunapp\.com\/v2\/user\?app_name\=weather,script-path=https://raw.githubusercontent.com/usrnb/options/main/Surge/JS/caiyun_svip.js
+
 [MITM]
 hostname = %APPEND% biz.caiyunapp.com
-
-[Script]
-彩云天气_SVIP = type=http-response,requires-body=1,max-size=0,pattern=https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),script-path=https://raw.githubusercontent.com/usrnb/options/main/Surge/JS/caiyun_svip.js
