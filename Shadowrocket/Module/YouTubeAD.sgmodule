@@ -1,5 +1,6 @@
 #!name=YouTube AD Block
 #!desc=屏蔽视频PIP|后台播放|瀑布流|搜索页|播放页|短视频|贴片广告
+#!author = Maasea
 
 [URL Rewrite]
 # ======= 视频广告请求 ======= #
