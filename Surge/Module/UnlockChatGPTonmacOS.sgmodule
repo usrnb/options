@@ -1,6 +1,5 @@
 #!name=Unlock ChatGPT on macOS
 #!desc=Unlock the Access of ChatGPT on macOS
-#!system=macOS
 
 [Body Rewrite]
 http-response ^https://ab\.chatgpt\.com/v1/ '"gateValue":"false"' '"gateValue":"true"' '"value":false' '"value":true'
