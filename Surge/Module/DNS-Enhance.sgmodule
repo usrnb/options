@@ -1,0 +1,14 @@
+#!name = 混合高可用 (DoQ + DoH)
+#!desc = 使用阿里DoQ极速解析，并由阿里/腾讯DoH提供TCP兜底防断网
+
+[General]
+# 保留 system 供局域网和特殊回退使用
+dns-server = system, 223.5.5.5, 119.29.29.29
+# 主用阿里 DoQ (IP直连免引导)，备用阿里 DoH 与腾讯 DoH (TCP 443 保证穿透率)
+encrypted-dns-server = quic://223.5.5.5, https://223.6.6.6/dns-query, https://1.12.12.12/dns-query
+
+[Host]
+# 让局域网本地域名直接走路由器系统 DNS，不发往阿里云
+*.lan = server:system
+*.local = server:system
+*.home.arpa = server:system
