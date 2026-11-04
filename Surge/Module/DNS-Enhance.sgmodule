@@ -1,4 +1,4 @@
-#!name = 混合高可用 (DoQ + DoH)
+#!name = DNS混合高可用 (DoQ + DoH)
 #!desc = 使用阿里DoQ极速解析，并由阿里/腾讯DoH提供TCP兜底防断网
 #!category=Support
 
