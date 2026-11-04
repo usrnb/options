@@ -7,3 +7,4 @@ http-request (raw|gist).githubusercontent.com header-replace Accept-Language en-
 
 [MITM]
 hostname = %APPEND% raw.githubusercontent.com,gist.githubusercontent.com
+#####
