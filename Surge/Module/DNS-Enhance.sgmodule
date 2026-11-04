@@ -1,5 +1,6 @@
 #!name = 混合高可用 (DoQ + DoH)
 #!desc = 使用阿里DoQ极速解析，并由阿里/腾讯DoH提供TCP兜底防断网
+#!category=Support
 
 [General]
 # 保留 system 供局域网和特殊回退使用
